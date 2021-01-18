@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kampintro", "Kampintro\Kampintro.csproj", "{DF00377E-85DD-4ED2-8C93-1140F8049E09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{99BDBA95-D916-41F5-A066-E983E8873BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ternaryOperatoru", "ternaryOperatoru\ternaryOperatoru.csproj", "{0280652C-8979-4598-817A-858C62BC0D56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DF00377E-85DD-4ED2-8C93-1140F8049E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF00377E-85DD-4ED2-8C93-1140F8049E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF00377E-85DD-4ED2-8C93-1140F8049E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BDBA95-D916-41F5-A066-E983E8873BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BDBA95-D916-41F5-A066-E983E8873BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BDBA95-D916-41F5-A066-E983E8873BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BDBA95-D916-41F5-A066-E983E8873BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0280652C-8979-4598-817A-858C62BC0D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0280652C-8979-4598-817A-858C62BC0D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0280652C-8979-4598-817A-858C62BC0D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0280652C-8979-4598-817A-858C62BC0D56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
