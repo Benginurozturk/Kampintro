@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ternaryOperatoru", "ternaryOperatoru\ternaryOperatoru.csproj", "{0280652C-8979-4598-817A-858C62BC0D56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchOperatoru", "switchOperatoru\switchOperatoru.csproj", "{EDB614B0-7D4C-42E7-AC5A-7F05060A09D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0280652C-8979-4598-817A-858C62BC0D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0280652C-8979-4598-817A-858C62BC0D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0280652C-8979-4598-817A-858C62BC0D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB614B0-7D4C-42E7-AC5A-7F05060A09D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB614B0-7D4C-42E7-AC5A-7F05060A09D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB614B0-7D4C-42E7-AC5A-7F05060A09D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB614B0-7D4C-42E7-AC5A-7F05060A09D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
