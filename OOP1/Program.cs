@@ -4,6 +4,7 @@ namespace OOP1
 {
     class Program
     {
+        // merhba
         private const string V = "Masa";
         private const int V1 = 500;
 
