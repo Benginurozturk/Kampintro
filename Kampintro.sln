@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref and out", "ref and out\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{A16A79D4-9702-4689-A510-9E2B281A9B09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{5B21186B-BD0B-497E-B5F0-6903F100192C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{03E8D083-0FEC-4C17-9C34-D43CC329DBA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{A16A79D4-9702-4689-A510-9E2B281A9B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A16A79D4-9702-4689-A510-9E2B281A9B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A16A79D4-9702-4689-A510-9E2B281A9B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B21186B-BD0B-497E-B5F0-6903F100192C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B21186B-BD0B-497E-B5F0-6903F100192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B21186B-BD0B-497E-B5F0-6903F100192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B21186B-BD0B-497E-B5F0-6903F100192C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E8D083-0FEC-4C17-9C34-D43CC329DBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E8D083-0FEC-4C17-9C34-D43CC329DBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E8D083-0FEC-4C17-9C34-D43CC329DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E8D083-0FEC-4C17-9C34-D43CC329DBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
