@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{0D745917-C9F0-4FB6-AF6D-7BFAD838F557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{08C3FCCB-7878-484B-BD83-A7E3B12E7008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0D745917-C9F0-4FB6-AF6D-7BFAD838F557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D745917-C9F0-4FB6-AF6D-7BFAD838F557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D745917-C9F0-4FB6-AF6D-7BFAD838F557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C3FCCB-7878-484B-BD83-A7E3B12E7008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C3FCCB-7878-484B-BD83-A7E3B12E7008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C3FCCB-7878-484B-BD83-A7E3B12E7008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C3FCCB-7878-484B-BD83-A7E3B12E7008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
